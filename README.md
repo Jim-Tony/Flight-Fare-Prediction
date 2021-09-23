@@ -5,7 +5,7 @@
   * [Installation](#installation)
   * [Future scope of project](#future-scope)
 
-
+![Screenshot](flight.png)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
